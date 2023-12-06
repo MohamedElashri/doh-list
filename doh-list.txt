@@ -1,0 +1,207 @@
+#4d16d1896b09ad392b65703ba75da47175a0ecbdf2274d051f9e39ad3fe9dad4
+#
+# DNS-over-HTTPS Providers
+# Compiled from curl/curl wiki
+#
+# Full URLs of DoH services:
+#
+ https://abel.waringer-atg.de/dns-query 
+https://vn.dns.abpvn.com/dns-query
+ https://res-acst3.absolight.net/dns-query 
+Adelaide: https://adl.adfilter.net/dns-query
+ Default: https://dns.adguard-dns.com/dns-query 
+https://dns.adrianlam.com/dns-query
+ Uncensored : https://blitz.ahadns.com 
+ Amsterdam Non-filtering: https://dnsnl.alekberg.net/dns-query 
+ https://dns.alidns.com/dns-query
+https://mailer.amlegion.org/dns-query
+https://dns.andrewnw.xyz/dns-query
+ https://dns.aa.net.uk/dns-query 
+ https://secure.anudeep.me/dns-query 
+ https://dns.artikel10.org/dns-query 
+ https://dns.b612.me/dns-query 
+ https://secure.avastdns.com/dns-query 
+ Ads and gambling blocking : https://awan.ftp.sh/dns-query 
+https://pihole.aws.ketan.dev/dns-query
+ Ad & malware blocking: https://dns.bebasid.com/dns-query 
+https://ns3.bit-trail.nl/dns-query
+ https://dns.bitdefender.net/dns-query 
+ https://dns.blokada.org/dns-query 
+https://doh.boje8.me/dns-query
+ https://doh.bortzmeyer.fr 
+https://cloudns.bosco.ovh/dns-query
+ https://dns.brahma.world/dns-query 
+https://doh.bt.com
+ https://doh1.b-cdn.net/dns-query 
+ https://www.c-dns.com/dns-query 
+ Cloudflare upstream: https://doh.aaaab3n.moe/dns-query-114514 
+https://dns.carson-family.com/dns-query
+ https://doh.ccb-net.it 
+https://dns.chenu.ch/dns-query
+ https://dns.circl.lu/dns-query  
+ Standard: https://doh.opendns.com/dns-query 
+ https://dns.clanless.ovh/dns-query 
+ https://doh.cleanbrowsing.org/doh/family-filter/ 
+https://cloud.198.games/dns-query
+ https://cloudflare-dns.com/dns-query 
+https://dns.cynthialabs.net/dns-query
+ https://odvr.nic.cz/dns-query 
+ https://dns.daw.dev/dns-query 
+ https://ns.00dani.me/dns-query 
+https://darkness.is.my.waifu.cz/dns-query
+ https://mail.data.haus/dns-query 
+ https://doh.datacore.ch/dns-query 
+ https://doh.datahata.by/dns-query 
+  https://dns.digitale-gesellschaft.ch/dns-query 
+ https://doh.disconnect.app/dns-query 
+ Non-blocking: https://open.dns0.eu
+ Allentown: https://abe01.dnscry.pt/dns-query
+ Adblocking: https://dns-free.link/dns-query 
+ https://dns-doh.dnsforfamily.com/dns-query 
+ https://dns.digitalsize.net/dns-query 
+https://dns.expert/dns-query
+ https://doh.dns.sb/dns-query 
+https://doh.dns4all.eu/dns-query
+ https://nz01.dns4me.net 
+ https://dnsforge.de/dns-query 
+  https://dns.dnshome.de/dns-query 
+ https://dnslow.me/dns-query 
+ https://dns.pub/dns-query 
+https://dns.doh.best/dns-query
+https://doh.dscloud.me/dns-query
+https://dukun.de/dns-query 
+https://doh.apad.pro/dns-query
+ https://edgy-dns.com/dns-query 
+ https://dns.emiliyan.com/dns-query 
+https://dns.extrawdw.net/dns-query
+ https://rdns.faelix.net/ 
+ https://dns.fancyorg.at/dns-query 
+ https://ns0.fdn.fr/dns-query 
+ https://dns.feldy.my.id/dns-query 
+https://ag.ff0x.ca/dns-query
+ https://doh.ffmuc.net/dns-query 
+ https://dns01.flm9.net/dns-query 
+ https://doh.applied-privacy.net/query 
+ https://dns.froth.zone/dns-query 
+ https://doh.futa.gg/dns-query 
+https://dns.freyja.pw/dns-query
+ https://dns.google/dns-query 
+ https://cluster-0.gac.edu/dns-query 
+ https://ordns.he.net/dns-query
+ https://doth.huque.com/dns-query 
+ https://ihctw.synology.me/dns-query 
+ https://dns1.in-berlin.de/dns-query 
+ https://qlf-doh.inria.fr/dns-query 
+ https://doh.ibr.cs.tu-bs.de/dns-query 
+ https://public.dns.iij.jp/dns-query 
+ https://pdns.itxe.net/dns-query
+https://ivnkn.xyz/dns-query
+https://dns.jstockley.com/dns-query
+ https://jackyes.ovh/dns-query 
+ https://adguard.jfchenier.ca/dns-query 
+ https://dns.hahnjo.de/dns-query 
+ https://jp.tiar.app/dns-query 
+ https://dns.kamilszczepanski.com/dns-query 
+https://dns.karl.one/dns-query
+ https://dns.kernel-error.de/dns-query 
+ https://dns.kescher.at/dns-query 
+ https://blog.kimiblock.top/redirect/resolve 
+https://adguard.avdkishore.dev/dns-query
+https://adguard.konikoni428.com/dns-query
+https://dart.kpsn.org/dns-query
+ https://xray.krnl.eu/dns-query 
+ https://agh.kul-lippek.de/dns-query
+ https://doh.lacontrevoie.fr/dns-query 
+ https://lastentarvike.fi/dns-query 
+ Finland: https://eu1.dns.lavate.ch/dns-query 
+https://adguard.lege.despagne.net/dns-query
+ Non-filtering: https://doh.libredns.gr/dns-query 
+ Adblocking: https://lindung.pp.ua/dns-query 
+ Germany 1: https://doh.phdns1.lonet.org/dns-query 
+ https://masters-of-cloud.de/dns-query 
+ https://doh.max.net.id/dns-query 
+https://adguard.meddy94.de/dns-query
+ https://snoke.meganerd.nl/dns-query 
+ https://doh.mmmalia.com/dns-query 
+https://ps1.modr.club/dns-query
+ https://dns.molinero.dev/dns-query 
+ Non-blocking https://dns.mullvad.net/dns-query 
+ Uncensored: https://freedom.mydns.network/dns-query 
+ https://blackhole.myon.lu/dns-query 
+https://dns.nas-server.ru/dns-query
+https://dns.ndo.dev/dns-query
+ https://doh.luigi.nexific.it/dns-query 
+ https://dns.nextdns.io 
+ https://dns.nhtsky.com/dns-query 
+ https://doh.lv/dns-query 
+https://dns1.nielsdb.be/dns-query
+ https://doh.niyawe.de/dns-query 
+ https://dns.njal.la/dns-query 
+ https://resolver.noaddns.com/dns-query 
+ https://pi1.node15.com/dns-query 
+https://sink.nolo.ltd/dns-query
+ https://1.dns.noridev.moe/dns-query 
+https://dns.novali.date/dns-query
+https://dns.ofdoom.net/dns-query
+https://secure.onedns.cc/dns-query
+ Adapted: https://ada.openbld.net/dns-query 
+ https://1a.ns.ozer.im/dns-query 
+ https://dns.paesa.es/dns-query 
+ https://doh.gcp.pathofgrace.com/dns-query 
+https://darya.persiannit.net/dns-query
+ https://doh.360.cn/dns-query 
+ https://ns1.qquack.org/dns-query 
+ https://dns.quad9.net/dns-query 
+ https://doh.qis.io/dns-query 
+https://ant.dns.qwer.pw/dns-query
+ https://resolver.r0cket.net/dns-query 
+ https://rayneau.fr/dns-query 
+ https://dns.reckoningslug.name/dns-query 
+ https://kaitain.restena.lu/dns-query 
+ Non-filtering: https://sky.rethinkdns.com/dns-query 
+ https://doh.rezhajul.io/dns-query 
+ https://resolver.rferee.dev/dns-query/ 
+ https://dns.rin.sh/dns-query 
+ https://dns.rotunneling.net/dns-query/public 
+ https://safeservedns.com/dns-query 
+ https://doh.safesurfer.io/dns-query 
+https://o.rsaikat.com/dns-query
+ https://dns.sarak.as/dns-query 
+https://dns.sev.monster/dns-query
+ https://free.shecan.ir/dns-query 
+ https://adguard.shuting.idv.tw/dns-query 
+ https://dns.silen.org/dns-query 
+https://dns.silentlybren.com/dns-query
+https://dns.sitdns.com/dns-query
+https://dns.skrep.eu/dns-query
+ https://dns.slinkyman.net/dns-query 
+ https://clientdns3.softcom.net/dns-query 
+ https://spacedns.org/dns-query 
+ https://dns.startupstack.tech/dns-query 
+ Adblock https://sundalandia.pp.ua/dns-query 
+ https://dns.switch.ch/dns-query 
+ https://dns.syaifullah.com/dns-query 
+ https://doh.syshero.org/dns-query 
+ https://dns.t53.de/dns-query 
+ https://dns.telekom.de/dns-query 
+ https://dns.therifleman.name/dns-query 
+ https://doh.tiar.app/dns-query 
+ https://timmes.nl/dns-query 
+ https://dns.tls-data.de/dns-query 
+ https://dns.twnic.tw/dns-query 
+ https://resolver.unstoppable.io/dns-query 
+ Adblocking https://virga.pp.ua/dns-query 
+https://dns.wang.art/dns-query
+https://wikimedia-dns.org/dns-query
+ https://agh.workfordemo.co.in/dns-query 
+https://adb-home.xaoimoon.fr/dns-query
+ https://doh.xcom.pro/dns-query 
+ Basic: https://common.dot.dns.yandex.net/dns-query 
+ https://yarp.lefolgoc.net/dns-query 
+https://cdn.0ms.dev/dns-query
+https://dns.240527.xyz
+https://dns.4-the.win/dns-query
+https://dns.52306.org/dns-query
+ Ad & porn blocking: https://family.5ososea.com/dns-query 
+ https://ibuki.cgnat.net/dns-query 
+ https://doh-2.seby.io/dns-query 
