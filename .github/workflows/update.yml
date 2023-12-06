@@ -8,7 +8,12 @@ jobs:
   compile:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use GITHUB_TOKEN for checkout
+    - name: Checkout curl.wiki Repository
+      uses: actions/checkout@v3
       with:
         repository: curl/curl.wiki
         path: curl.wiki
