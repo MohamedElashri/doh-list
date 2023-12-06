@@ -9,20 +9,16 @@ if [ ! -r "$FILE" ]; then
     exit 1
 fi
 
-# Extract URLs from the "Base URL" column of the table
+# Extract only URLs from the "Base URL" column of the table
 CONTENT=$(awk '
     BEGIN { capture = 0; }
     /^# Publicly available servers/ { capture = 1; }
     /^# Private DNS Server with DoH setup examples/ { capture = 0; exit; }
     capture && /^\|/ {
         split($0, columns, "|");
-        gsub(/<br>.*$/, "", columns[3]);  # Remove <br> and anything following it
-        url = columns[3];
-        if (url ~ /https?:\/\//) {
-            print url;
-        }
+        print columns[3];
     }
-' "$FILE")
+' "$FILE" | grep -o 'https://[a-zA-Z0-9./?=_%:-]*')
 
 # Generate the doh-list.txt file
 {
