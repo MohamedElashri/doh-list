@@ -10,10 +10,10 @@ if [ ! -r "$FILE" ]; then
 fi
 
 # Extract and format the list of DNS-over-HTTPS providers
-# Stop adding URLs upon encountering the specified line
+# Exclude URLs that are part of Markdown link syntax
 CONTENT=$(awk '/^# Publicly available servers/,/^# Private DNS Server with DoH setup examples/ { print }' "$FILE" | \
     grep -o 'https://[a-zA-Z0-9./?=_%:-]*' | \
-    grep -v '^# Private DNS Server with DoH setup examples')
+    grep -v '\[.*\]\(.*\)')
 
 # Generate the doh-list.txt file
 {
