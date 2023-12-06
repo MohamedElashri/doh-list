@@ -29,8 +29,8 @@ jobs:
     - name: Check for updates and commit if true
       if: ${{ steps.check.outputs.should_compile == 'true' }}
       run: |
-        chmod +x ./doh-list.sh       # Ensure the script is executable
-        ./doh-list.sh                # Run the script
+        chmod +x ./doh-update.sh       # Ensure the script is executable
+        ./doh-update.sh                # Run the script
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add doh-list.txt
