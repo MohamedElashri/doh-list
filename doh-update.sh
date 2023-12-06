@@ -9,6 +9,9 @@ if [ ! -r "$FILE" ]; then
     exit 1
 fi
 
+# Get the current date for the "Last modified" entry
+CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S")
+
 # Extract only URLs from the "Base URL" column of the table
 CONTENT=$(awk '
     BEGIN { capture = 0; }
@@ -20,12 +23,13 @@ CONTENT=$(awk '
     }
 ' "$FILE" | grep -o 'https://[a-zA-Z0-9./?=_%:-]*')
 
-# Generate the doh-list.txt file
+# Generate the doh-list.txt file with the header
 {
-    echo "#$(sha256sum "$FILE" | cut -d' ' -f1)"
-    echo "#"
-    echo "# DNS-over-HTTPS Providers"
-    echo "# Compiled from curl/curl wiki"
+    echo "! Title: DoH DNS Block Filter"
+    echo "! Description: Filter to block the public available DoH servers."
+    echo "! Homepage: https://github.com/MohamedElashri/doh-list"
+    echo "! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE"
+    echo "! Last modified: $CURRENT_DATE"
     echo "#"
     echo "# Full URLs of DoH services:"
     echo "#"
