@@ -3,7 +3,7 @@
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
 #
-#
+
 #	abpvn.com
 #	adfilter.net
 #	adguard-dns.io
