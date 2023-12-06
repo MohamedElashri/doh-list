@@ -12,6 +12,8 @@ jobs:
       with:
         repository: curl/curl.wiki
         path: curl.wiki
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - run: ls -la # List files in the root directory for debugging
     - id: check
       run: |
         SOURCE_HASH=$(sha256sum curl.wiki/DNS-over-HTTPS.md | cut -d' ' -f1)
