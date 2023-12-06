@@ -9,11 +9,20 @@ if [ ! -r "$FILE" ]; then
     exit 1
 fi
 
-# Extract and format the list of DNS-over-HTTPS providers
-# Exclude URLs that are part of Markdown link syntax
-CONTENT=$(awk '/^# Publicly available servers/,/^# Private DNS Server with DoH setup examples/ { print }' "$FILE" | \
-    grep -o 'https://[a-zA-Z0-9./?=_%:-]*' | \
-    grep -v '\[.*\]\(.*\)')
+# Extract URLs from the "Base URL" column of the table
+CONTENT=$(awk '
+    BEGIN { capture = 0; }
+    /^# Publicly available servers/ { capture = 1; }
+    /^# Private DNS Server with DoH setup examples/ { capture = 0; exit; }
+    capture && /^\|/ {
+        split($0, columns, "|");
+        gsub(/<br>.*$/, "", columns[3]);  # Remove <br> and anything following it
+        url = columns[3];
+        if (url ~ /https?:\/\//) {
+            print url;
+        }
+    }
+' "$FILE")
 
 # Generate the doh-list.txt file
 {
