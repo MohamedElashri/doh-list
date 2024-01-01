@@ -2,14 +2,13 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2023-12-06 08:25:39
+! Last modified: 2024-01-01 12:05:26
 #
 # Full URLs of DoH services:
 #
 https://abel.waringer-atg.de/dns-query
 https://vn.dns.abpvn.com/dns-query
-https://res-acst3.absolight.net/dns-query
-https://resolver3.absolight.net/dns-query
+https://dns.aquilenet.fr/dns-query
 https://adl.adfilter.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
@@ -42,7 +41,6 @@ https://fr-dns1.bancuh.com/dns-query
 https://dns.bebasid.com/dns-query
 https://internetsehat.bebasid.com/dns-query
 https://dns.bebasid.com/unfiltered
-https://dns.bebasid.com/dns-oisd
 https://dns.bebasid.com/dns-hagezi
 https://dns.bebasid.com/dns-stevenblack
 https://dns.bebasid.com/dns-1hosts
@@ -51,12 +49,11 @@ https://dns.bebasid.com/dns-devdan
 https://ns3.bit-trail.nl/dns-query
 https://dns.bitdefender.net/dns-query
 https://doh-ch.blahdns.com/dns-query
-https://doh-jp.blahdns.com/dns-query
+https://doh-de.blahdns.com/dns-query
+https://doh-fi.blahdns.com/dns-query
 https://doh-sg.blahdns.com/dns-query
 https://dns.blokada.org/dns-query
-https://doh.boje8.me/dns-query
 https://doh.bortzmeyer.fr
-https://cloudns.bosco.ovh/dns-query
 https://dns.brahma.world/dns-query
 https://doh.bt.com
 https://doh1.b-cdn.net/dns-query
@@ -110,7 +107,6 @@ https://dns.daw.dev/dns-query
 https://ns.00dani.me/dns-query
 https://darkness.is.my.waifu.cz/dns-query
 https://mail.data.haus/dns-query
-https://doh.datacore.ch/dns-query
 https://doh.datahata.by/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
 https://doh.disconnect.app/dns-query
@@ -127,7 +123,6 @@ https://ord01.dnscry.pt/dns-query
 https://coe01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dfw01.dnscry.pt/dns-query
-https://dub01.dnscry.pt/dns-query
 https://dtw01.dnscry.pt/dns-query
 https://rdu01.dnscry.pt/dns-query
 https://dus01.dnscry.pt/dns-query
@@ -139,9 +134,7 @@ https://llk01.dnscry.pt/dns-query
 https://lon01.dnscry.pt/dns-query
 https://lax01.dnscry.pt/dns-query
 https://lax02.dnscry.pt/dns-query
-https://mad01.dnscry.pt/dns-query
 https://mia01.dnscry.pt/dns-query
-https://yul01.dnscry.pt/dns-query
 https://muc01.dnscry.pt/dns-query
 https://naw01.dnscry.pt/dns-query
 https://nyc01.dnscry.pt/dns-query
@@ -155,12 +148,10 @@ https://sof01.dnscry.pt/dns-query
 https://geg01.dnscry.pt/dns-query
 https://sto01.dnscry.pt/dns-query
 https://syd01.dnscry.pt/dns-query
-https://tpe01.dnscry.pt/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://zal01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
-https://waw01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
 https://dns-free.link/dns-query
 https://dns-free.link/family
@@ -170,13 +161,6 @@ https://dns.expert/dns-query
 https://doh.dns.sb/dns-query
 https://doh.sb/dns-query
 https://doh.dns4all.eu/dns-query
-https://nz01.dns4me.net
-https://au01.dns4me.net
-https://au02.dns4me.net
-https://uk01.dns4me.net
-https://sa01.dns4me.net
-https://ca01.dns4me.net
-https://ca02.dns4me.net
 https://dnsforge.de/dns-query
 https://dns.dnshome.de/dns-query
 https://dnslow.me/dns-query
@@ -196,7 +180,6 @@ https://pdns.faelix.net/
 https://dns.fancyorg.at/dns-query
 https://ns0.fdn.fr/dns-query
 https://ns1.fdn.fr/dns-query
-https://dns.feldy.my.id/dns-query
 https://ag.ff0x.ca/dns-query
 https://doh.ffmuc.net/dns-query
 https://dns01.flm9.net/dns-query
@@ -232,9 +215,7 @@ https://dns.kescher.at/dns-query
 https://blog.kimiblock.top/redirect/resolve
 https://adguard.avdkishore.dev/dns-query
 https://adguard.konikoni428.com/dns-query
-https://dart.kpsn.org/dns-query
 https://xray.krnl.eu/dns-query
-https://agh.kul-lippek.de/dns-query
 https://doh.lacontrevoie.fr/dns-query
 https://lastentarvike.fi/dns-query
 https://eu1.dns.lavate.ch/dns-query
@@ -291,14 +272,12 @@ https://darya.persiannit.net/dns-query
 https://doh.360.cn/dns-query
 https://ns1.qquack.org/dns-query
 https://dns.quad9.net/dns-query
-https://doh.qis.io/dns-query
 https://ant.dns.qwer.pw/dns-query
 https://dog.dns.qwer.pw/dns-query
 https://lion.dns.qwer.pw/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://frog.dns.qwer.pw/dns-query
 https://resolver.r0cket.net/dns-query
-https://rayneau.fr/dns-query
 https://dns.reckoningslug.name/dns-query
 https://kaitain.restena.lu/dns-query
 https://sky.rethinkdns.com/dns-query
@@ -317,7 +296,6 @@ https://dns.shecan.ir/dns-query
 https://adguard.shuting.idv.tw/dns-query
 https://dns.silen.org/dns-query
 https://dns.silentlybren.com/dns-query
-https://dns.sitdns.com/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://clientdns3.softcom.net/dns-query
@@ -330,7 +308,6 @@ https://dns.syaifullah.com/dns-query
 https://doh.syshero.org/dns-query
 https://dns.t53.de/dns-query
 https://dns.telekom.de/dns-query
-https://dns.therifleman.name/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
 https://timmes.nl/dns-query
@@ -342,14 +319,12 @@ https://virga.pp.ua/porn
 https://dns.wang.art/dns-query
 https://wikimedia-dns.org/dns-query
 https://agh.workfordemo.co.in/dns-query
-https://adb-home.xaoimoon.fr/dns-query
 https://doh.xcom.pro/dns-query
 https://common.dot.dns.yandex.net/dns-query
 https://safe.dot.dns.yandex.net/dns-query
 https://family.dot.dns.yandex.net/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://cdn.0ms.dev/dns-query
-https://dns.240527.xyz
 https://dns.4-the.win/dns-query
 https://dns.52306.org/dns-query
 https://family.5ososea.com/dns-query
