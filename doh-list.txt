@@ -2,7 +2,7 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2025-06-01 12:07:13
+! Last modified: 2025-07-01 12:08:22
 #
 # Full URLs of DoH services:
 #
@@ -17,6 +17,7 @@ https://dns.adguard-dns.com/dns-query
 https://family.adguard-dns.com/dns-query
 https://unfiltered.adguard-dns.com/dns-query
 https://affsoft.cc/dns-query
+https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
 https://doh.kel.pe
 https://dns.aa.net.uk/dns-query
@@ -119,6 +120,11 @@ https://dns0.eu
 https://zero.dns0.eu
 https://kids.dns0.eu
 https://doh.dns4all.eu/dns-query
+https://protective.joindns4.eu/dns-query
+https://child.joindns4.eu/dns-query
+https://noads.joindns4.eu/dns-query
+https://child-noads.joindns4.eu/dns-query
+https://unfiltered.joindns4.eu/dns-query
 https://ca01.dns4me.net
 https://ca02.dns4me.net
 https://us01.dns4me.net
@@ -199,6 +205,12 @@ https://clean.dnsforge.de/dns-query
 https://hard.dnsforge.de/dns-query
 https://dns.dnshome.de/dns-query
 https://dnslow.me/dns-query
+https://hongkong.dnsovertor.cc/dns-query
+https://japan.dnsovertor.cc/dns-query
+https://chuncheon.dnsovertor.cc/dns-query
+https://chuncheon1.dnsovertor.cc/dns-query
+https://seoul.dnsovertor.cc/dns-query
+https://singapore.dnsovertor.cc/dns-query
 https://dns.pub/dns-query
 https://doh.beauty
 https://doh.buzz/dns-query
@@ -260,6 +272,10 @@ https://public.dns.iij.jp/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://yunyun.is.my.waifu.cz/dns-query
 https://dns.jupitrdns.com/dns-query
+https://doh0.jusprogdns.com/dns-query
+https://doh6.jusprogdns.com/dns-query
+https://doh12.jusprogdns.com/dns-query
+https://doh16.jusprogdns.com/dns-query
 https://ad.justincounts.com/dns-query
 https://dns.kapite.in/dns-query
 https://adguard.kasbot.net/dns-query
@@ -419,6 +435,7 @@ https://dns.startupstack.tech/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
 https://doh.sublime9.xyz/dns-query
+https://dns.surfsharkdns.com/dns-query
 https://dns.suhaila.dev/dns-query
 https://resolver.sunet.se/dns-query
 https://sunnygyl.com/dns-query
