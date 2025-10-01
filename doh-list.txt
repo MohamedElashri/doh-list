@@ -2,7 +2,7 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2025-09-01 12:08:28
+! Last modified: 2025-10-01 12:08:21
 #
 # Full URLs of DoH services:
 #
@@ -127,7 +127,6 @@ https://nz01.dns4me.net
 https://ie01.dns4me.net
 https://de01.dns4me.net
 https://dns.dns-53.us/dns-query
-https://ams01.dnscry.pt/dns-query
 https://abn01.dnscry.pt/dns-query
 https://ath01.dnscry.pt/dns-query
 https://atl01.dnscry.pt/dns-query
@@ -150,8 +149,6 @@ https://han01.dnscry.pt/dns-query
 https://sgn01.dnscry.pt/dns-query
 https://ist01.dnscry.pt/dns-query
 https://las01.dnscry.pt/dns-query
-https://lim02.dnscry.pt/dns-query
-https://lis01.dnscry.pt/dns-query
 https://lon01.dnscry.pt/dns-query
 https://mad01.dnscry.pt/dns-query
 https://mil01.dnscry.pt/dns-query
@@ -206,7 +203,6 @@ https://dns.dynx.pro/dns-query
 https://dns.dynx.pro/dns-query/family
 https://dns.d94.xyz/dns-query
 https://dns.d96.info/dns-query
-https://dns.henek.ovh/dns-query
 https://dns.elemental.software/dns-query
 https://dns.eliv.kr/dns-query
 https://dns.faked.org/dns-query
@@ -232,7 +228,6 @@ https://dns.google/dns-query
 https://dns64.dns.google/dns-query
 https://8888.google/dns-query
 https://dns.glf.wtf/dns-query
-https://dns.green-ping.lol/dns-query
 https://dns.guard.io/dns-query
 https://dns.haka.se/dns-query
 https://dns.hoody.com/dns-query
@@ -242,8 +237,6 @@ https://dns1.in-berlin.de/dns-query
 https://dns2.in-berlin.de/dns-query
 https://dns.inforlogia.com/dns-query
 https://public.dns.iij.jp/dns-query
-https://megumin.is.my.waifu.cz/dns-query
-https://yunyun.is.my.waifu.cz/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.kapite.in/dns-query
 https://adguard.kasbot.net/dns-query
@@ -268,14 +261,12 @@ https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
 https://dns.l337.site/dns-query
 https://mabuktogel.directory/dns-query
-https://maqgie.xyz/dns-query
 https://dns.marasov.id/dns-query
 https://dns.technologycage.com/dns-query
 https://dns.marbledfennec.net/dns-query
 https://masters-of-cloud.de/dns-query
 https://dns.mateo.ovh/dns-query
 https://dns.mayx.eu.org/dns-query
-https://dns.mbrjun.cn/dns-query
 https://adguard.meddy94.de/dns-query
 https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query
 https://addns1.m-it.ro/dns-query
@@ -287,7 +278,6 @@ https://base.dns.mullvad.net/dns-query
 https://extended.dns.mullvad.net/dns-query
 https://all.dns.mullvad.net/dns-query
 https://family.dns.mullvad.net/dns-query
-https://myatris.sbs/dns-query
 https://freedom.mydns.network/dns-query
 https://paranoia.mydns.network/dns-query
 https://adblock.mydns.network/dns-query
@@ -316,14 +306,10 @@ https://doh.nic.lv/dns-query
 https://adguard-kartoffel.zernico.de/dns-query
 https://doh-random-upstream.nicolas-dorriere.fr/dns-query
 https://doh-own-recursion.nicolas-dorriere.fr/dns-query
-https://public.ns.nwps.fi/dns-query
-https://kids.ns.nwps.fi/dns-query
 https://dns.ningkelle.id/dns-query
 https://family.dns.ningkelle.id/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
-https://dns1.nordvpn.com/dns-query
-https://dns2.nordvpn.com/dns-query
 https://dns.novg.net/dns-query
 https://ntwrkh.pro/dns-query
 https://dns.ofdoom.net/dns-query
@@ -335,13 +321,11 @@ https://dns.paulo.nom.za/dns-query
 https://dns.decky.eu/dns-query
 https://pepetio.xyz/dns-query
 https://dns.petqa.ru/dns-query
-https://dns1.pietjacobs.be/dns-query
 https://kronos.plan9-dns.com/dns-query
 https://helios.plan9-dns.com/dns-query
 https://pluton.plan9-dns.com/dns-query
 https://privacy.plumedns.com/dns-query
 https://pooblet.co.za/dns-query
-https://nl.dns.privex.io
 https://doh.archuser.org/dns-query
 https://dns.quad9.net/dns-query
 https://dns9.quad9.net/dns-query
@@ -392,10 +376,6 @@ https://dns.switch.ch/dns-query
 https://dns.szpadel.ovh/dns-query
 https://dns.t53.de/dns-query
 https://dns.telekom.de/dns-query
-https://dns.thebuckners.org/dns-query
-https://blocker.thethorsens.org/dns-query
-https://dns.thiz.top/dns-query
-https://dns.thiz.top/1:IAAgAA==
 https://dns.tipsy.coffee/dns-query
 https://dns.tls-data.de/dns-query
 https://tujenasnaszato.xyz/dns-query
@@ -408,6 +388,9 @@ https://resolver.dnsprivacy.org.uk/dns-query
 https://anycast.uncensoreddns.org/dns-query
 https://dns.unx.io/dns-query
 https://adfree.usableprivacy.net/dns-query
+https://v.recipes/dns-query
+https://v.recipes/dns-adblock
+https://v.recipes/dns-ecs
 https://dns.vaioswolke.xyz/dns-query
 https://doh.viatech.com.tw/dns-query
 https://dns.wang.art/dns-query
