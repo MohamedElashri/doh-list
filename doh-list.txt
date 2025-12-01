@@ -2,13 +2,12 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2025-11-01 12:07:11
+! Last modified: 2025-12-01 12:09:09
 #
 # Full URLs of DoH services:
 #
 https://resolver1.absolight.net/dns-query
 https://resolver2.absolight.net/dns-query
-https://resolver3.absolight.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
 https://adl.adfilter.net/dns-query
@@ -116,7 +115,6 @@ https://uk01.dns4me.net
 https://nz01.dns4me.net
 https://ie01.dns4me.net
 https://de01.dns4me.net
-https://dns.dns-53.us/dns-query
 https://abn01.dnscry.pt/dns-query
 https://ath01.dnscry.pt/dns-query
 https://atl01.dnscry.pt/dns-query
@@ -212,7 +210,6 @@ https://de-f1.foxyfy.net/dns-query
 https://ro-bu.foxyfy.net/dns-query
 https://es-ma.foxyfy.net/dns-query
 https://us-sj.foxyfy.net/dns-query
-https://jp-to.foxyfy.net/dns-query
 https://dns.froth.zone/dns-query
 https://doh.futa.gg/dns-query
 https://dns.gamban.com/dns-query
@@ -226,7 +223,6 @@ https://dns.glf.wtf/dns-query
 https://dns.guard.io/dns-query
 https://secure.hafnova.com/dns-query
 https://dns.haka.se/dns-query
-https://dns.hoody.com/dns-query
 https://doth.huque.com/dns-query
 https://imperio.top/dns-query
 https://dns1.in-berlin.de/dns-query
@@ -234,13 +230,10 @@ https://dns2.in-berlin.de/dns-query
 https://dns.inforlogia.com/dns-query
 https://public.dns.iij.jp/dns-query
 https://dns.kapite.in/dns-query
-https://adguard.kasbot.net/dns-query
-https://dns.kebree.fr/dns-query
 https://dns.kernel-error.de/dns-query
 https://dns.kescher.at/dns-query
 https://pihole.aws.ketan.dev/dns-query
 https://adg.khon.dev/dns-query
-https://doh.kidzonet.io/dns-query
 https://dns.koala.us.to/dns-query
 https://dns.kosan.moe/dns-query
 https://dart.kpsn.org/dns-query
@@ -250,12 +243,10 @@ https://eu1.dns.lavate.ch/dns-query
 https://dns.liberador.net
 https://doh.libredns.gr/dns-query
 https://doh.libredns.gr/noads
-https://lifeisa.live/dns-query
 https://loadlow.me/dns-query
 https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
 https://dns.l337.site/dns-query
-https://mabuktogel.directory/dns-query
 https://dns.marasov.id/dns-query
 https://dns.technologycage.com/dns-query
 https://dns.marbledfennec.net/dns-query
@@ -337,7 +328,6 @@ https://dns.rabbitdns.org/dns-query
 https://security.rabbitdns.org/dns-query
 https://family.rabbitdns.org/dns-query
 https://dns.redhosting.com.ar/dns-query
-https://dns.reitmeier.me/dns-query
 https://regiopolis.cloud/dns-query
 https://renardbleu.dev/dns-query
 https://dnspub.restena.lu/dns-query
@@ -348,7 +338,6 @@ https://revelio.top/dns-query
 https://dns.rbn.gr/dns-query
 https://dns.roedel.cloud/dns-query
 https://safeservedns.com/dns-query
-https://dns1.serdcebolit.ru/dns-query
 https://dns.sheggi.ch/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://dns.silen.org/dns-query
@@ -366,7 +355,6 @@ https://dns.suhaila.dev/dns-query
 https://resolver.sunet.se/dns-query
 https://sunnygyl.com/dns-query
 https://dns.superstefan.win/dns-query
-https://dns.svoi.dev/dns-query
 https://dns.switch.ch/dns-query
 https://dns.szpadel.ovh/dns-query
 https://dns.t53.de/dns-query
