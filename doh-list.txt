@@ -2,12 +2,10 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2026-05-01 12:24:25
+! Last modified: 2026-06-01 14:05:04
 #
 # Full URLs of DoH services:
 #
-https://resolver1.absolight.net/dns-query
-https://resolver2.absolight.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
 https://adl.adfilter.net/dns-query
@@ -85,7 +83,6 @@ https://freedns.controld.com/x-goodbyeads
 https://freedns.controld.com/x-adguard
 https://cryptostorm.is/dns-query
 https://dns.csaonline.de/dns-query
-https://dns.csa-rz.de/dns-query
 https://dns.cynthialabs.net/dns-query
 https://odvr.nic.cz/dns-query
 https://ns.data.haus/dns-query
@@ -108,7 +105,6 @@ https://us02.dns4me.net
 https://sg01.dns4me.net
 https://sa01.dns4me.net
 https://au01.dns4me.net
-https://au02.dns4me.net
 https://uk01.dns4me.net
 https://nz01.dns4me.net
 https://ie01.dns4me.net
@@ -140,7 +136,6 @@ https://bom01.dnscry.pt/dns-query
 https://nue01.dnscry.pt/dns-query
 https://omr01.dnscry.pt/dns-query
 https://par01.dnscry.pt/dns-query
-https://phl01.dnscry.pt/dns-query
 https://phx01.dnscry.pt/dns-query
 https://pdx01.dnscry.pt/dns-query
 https://rdd01.dnscry.pt/dns-query
@@ -174,7 +169,6 @@ https://doh.beauty
 https://doh.buzz/dns-query
 https://3dns.eu/dns-query
 https://doh.domreg.lt/dns-query
-https://dns.dremaxx.de/dns-query
 https://agh.dshubham.xyz/dns-query
 https://dukun.de/dns-query
 https://xn--durhre-yxa.de/dns-query
@@ -191,11 +185,10 @@ https://doh.li/dns-query
 https://doh.ffmuc.net/dns-query
 https://fidelius.top/dns-query
 https://dns.floriantinney.de/dns-query
-https://dns.flymc.cc/dns-query
 https://doh.applied-privacy.net/query
-https://dns.foxyfy.net/dns-query
 https://de-f1.foxyfy.net/dns-query
 https://es-ma.foxyfy.net/dns-query
+https://dns.furrix.zone/dns-query
 https://doh.futa.gg/dns-query
 https://dns.gamban.com/dns-query
 https://gibblets.top/dns-query
@@ -226,7 +219,6 @@ https://dns.koala.us.to/dns-query
 https://dns.kosan.moe/dns-query
 https://adblock.krctech.dev/dns-query
 https://doh.lacontrevoie.fr/dns-query
-https://eu1.dns.lavate.ch/dns-query
 https://dns.liberador.net
 https://doh.libredns.gr/dns-query
 https://doh.libredns.gr/noads
@@ -235,7 +227,6 @@ https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
 https://dns.l337.site/dns-query
 https://dns.marasov.id/dns-query
-https://dns.marbledfennec.net/dns-query
 https://masters-of-cloud.de/dns-query
 https://dns.mateo.ovh/dns-query
 https://dns.mayx.eu.org/dns-query
@@ -249,10 +240,6 @@ https://base.dns.mullvad.net/dns-query
 https://extended.dns.mullvad.net/dns-query
 https://all.dns.mullvad.net/dns-query
 https://family.dns.mullvad.net/dns-query
-https://freedom.mydns.network/dns-query
-https://paranoia.mydns.network/dns-query
-https://adblock.mydns.network/dns-query
-https://family.mydns.network/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://ae-fuj-w-p-1.nashkan.net/dns-query
 https://ae-fuj-w-p-2.nashkan.net/dns-query
@@ -272,8 +259,7 @@ https://dns.nextdns.io
 https://dns.nick-slowinski.de/dns-query
 https://doh.lv/dns-query
 https://doh.nic.lv/dns-query
-https://doh-random-upstream.nicolas-dorriere.fr/dns-query
-https://doh-own-recursion.nicolas-dorriere.fr/dns-query
+https://doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
@@ -313,20 +299,16 @@ https://revelio.top/dns-query
 https://dns.rbn.gr/dns-query
 https://dns.roedel.cloud/dns-query
 https://safeservedns.com/dns-query
-https://dns.sheggi.ch/dns-query
-https://shitblocker.com/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://dns.silen.org/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
-https://adg.geili.me/dns-query
 https://dns.startupstack.tech/dns-query
 https://doh.sz-dns.com/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
 https://dns.surfsharkdns.com/dns-query
-https://dns.suhaila.dev/dns-query
 https://resolver.sunet.se/dns-query
 https://sunnygyl.com/dns-query
 https://dns.superstefan.win/dns-query
@@ -350,9 +332,7 @@ https://abel.waringer-atg.de/dns-query
 https://wikimedia-dns.org/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.xlion.tw/dns-query
-https://dns.yuu-g.net/dns-query
 https://zdn.ro/dns-query
-https://doh.zknt.org/dns-query
 https://123000123.xyz/dns-query
 https://ns2.4netguides.org/dns-query
 https://ibuki.cgnat.net/dns-query
