@@ -2,19 +2,16 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2026-08-01 12:23:40
+! Last modified: 2026-09-01 12:17:29
 #
 # Full URLs of DoH services:
 #
 https://per.adfilter.net/dns-query
-https://syd.adfilter.net/dns-query
 https://adl.adfilter.net/dns-query
 https://adfreedns.top/dns-query
 https://dns.adguard-dns.com/dns-query
 https://family.adguard-dns.com/dns-query
 https://unfiltered.adguard-dns.com/dns-query
-https://dns.adnull.com/dns-query
-https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.aa.net.uk/dns-query
 https://doh.angry.im/dns-query
@@ -112,18 +109,17 @@ https://seoul.dnsovertor.cc/dns-query
 https://dns.pub/dns-query
 https://doh.beauty
 https://doh.buzz/dns-query
-https://3dns.eu/dns-query
 https://doh.domreg.lt/dns-query
 https://agh.dshubham.xyz/dns-query
 https://dukun.de/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://dns.d94.xyz/dns-query
+https://dns.easyhns.com/dns-query
 https://dns.elemental.software/dns-query
 https://dns.envs.net/dns-query
 https://dns.faked.org/dns-query
 https://dnsvps.familiamv.net/dns-query
 https://dns.farshidhakimy.de/dns-query
-https://nicsezcheckfbi.gov
 https://ns0.fdn.fr/dns-query
 https://ns1.fdn.fr/dns-query
 https://doh.li/dns-query
@@ -147,6 +143,7 @@ https://root.hagezi.org/dns-query
 https://wurzn.hagezi.org/dns-query
 https://juuri.hagezi.org/dns-query
 https://dns.haka.se/dns-query
+https://hnsdoh.com/dns-query
 https://dns.hostux.net/dns-query
 https://dns.hostux.net/ads
 https://doth.huque.com/dns-query
@@ -210,14 +207,13 @@ https://doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
-https://dns.ofdoom.net/dns-query
+https://dns.omada.cafe/dns-query
 https://ada.openbld.net/dns-query
 https://ag.apollohct.com/dns-query
 https://dns4eu.online/dns-query
 https://dns.paesa.es/dns-query
 https://dns.paulo.nom.za/dns-query
 https://dns.decky.eu/dns-query
-https://dns.petqa.ru/dns-query
 https://kronos.plan9-dns.com/dns-query
 https://helios.plan9-dns.com/dns-query
 https://privacy.plumedns.com/dns-query
@@ -233,7 +229,6 @@ https://dog.dns.qwer.pw/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://dns.redhosting.com.ar/dns-query
 https://regiopolis.cloud/dns-query
-https://renardbleu.dev/dns-query
 https://dnspub.restena.lu/dns-query
 https://dns.retakecs.com/dns-query
 https://sky.rethinkdns.com/dns-query
@@ -253,7 +248,6 @@ https://doh.sz-dns.com/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://resolver.sunet.se/dns-query
-https://sunnygyl.com/dns-query
 https://dns.switch.ch/dns-query
 https://dns.t53.de/dns-query
 https://dns.telekom.de/dns-query
