@@ -2,7 +2,7 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2026-09-01 12:17:29
+! Last modified: 2026-10-01 12:18:58
 #
 # Full URLs of DoH services:
 #
@@ -174,12 +174,6 @@ https://adguard.meddy94.de/dns-query
 https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query
 https://addns1.m-it.ro/dns-query
 https://doh.mmmalia.com/dns-query
-https://dns.mullvad.net/dns-query
-https://adblock.dns.mullvad.net/dns-query
-https://base.dns.mullvad.net/dns-query
-https://extended.dns.mullvad.net/dns-query
-https://all.dns.mullvad.net/dns-query
-https://family.dns.mullvad.net/dns-query
 https://freedom.mydns.network/dns-query
 https://paranoia.mydns.network/dns-query
 https://adblock.mydns.network/dns-query
@@ -266,6 +260,8 @@ https://v0dka.ru/dns-query
 https://abel.waringer-atg.de/dns-query
 https://wikimedia-dns.org/dns-query
 https://dns.w3ctag.org/dns-query
+https://dns.yunzheng.space/dns-query
+https://filter.dns.yunzheng.space/dns-query
 https://zdn.ro/dns-query
 https://ns2.4netguides.org/dns-query
 https://ibuki.cgnat.net/dns-query
