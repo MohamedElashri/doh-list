@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "generated_by": "sanad",
+  "entries": [
+    {
+      "file": ".github/workflows/update.yml",
+      "node": "jobs.update.steps[0].uses",
+      "owner": "actions",
+      "repo": "checkout",
+      "path": "",
+      "kind": "github-action",
+      "logical_ref": "v7.0.1",
+      "pinned_sha": "3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "resolved_at": "2026-10-02T06:50:37Z",
+      "timestamp": "2026-07-20T15:10:05Z",
+      "timestamp_source": "release"
+    },
+    {
+      "file": ".github/workflows/update.yml",
+      "node": "jobs.update.steps[1].uses",
+      "owner": "actions",
+      "repo": "checkout",
+      "path": "",
+      "kind": "github-action",
+      "logical_ref": "v7.0.1",
+      "pinned_sha": "3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "resolved_at": "2026-10-02T06:50:37Z",
+      "timestamp": "2026-07-20T15:10:05Z",
+      "timestamp_source": "release"
+    }
+  ]
+}
